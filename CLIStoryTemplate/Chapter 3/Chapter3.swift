@@ -6,5 +6,6 @@
 import Foundation
 
 func chapterThree() {
+    print("new")
     // Your portion of the story goes here
 }
