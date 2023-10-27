@@ -7,8 +7,8 @@ import Foundation
 
 func chapterThree() {
     // Your portion of the story goes here
-    let names = ["Asia", "Tamera", "Jarvis", "Tommy", "Shanté"]
-    var challenge = 1
+    let Names = ["Asia", "Tamera", "Jarvis", "Tommy", "Shanté"]
+    var Challenge = 1
     
     
 }
