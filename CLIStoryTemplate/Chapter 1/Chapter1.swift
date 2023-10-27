@@ -1,10 +1,17 @@
 //
 //  Chapter1.swift
 //  CLIStoryTemplate
-//
+//In this story you would be learning about how we all became apart of the Apple Developer Academy. Our group Good Vibes including Asia, Tommy, Jarvis, Shanté, and Tamera would be apart of the story. This would include how we all got here and where we would land in the future. Asia became apart of the academy though her school. A mentor came to Renaisance High School and introduced the academy. What she wanted to get out of it is learning new skills in tech. So Asia applied and got in. Shanté became apart of the program after watching the nightly news and seeing a short news piece that introduced her to the Apple Developer's Program for the first time.  She then went to Michigan State's website, applied to the program, and got accepted. Jarvis herad about the program from friends in the previous years program, and joined to learn more about the business of app development. Tamera became part of the program after a colleague of hers sent her the link to apply, knowing how much she enjoyed programming. She applied because she not only wanted to learn more about coding--but about design and business especially. She went through the interview process and was eventually accepted into the academy. Tommy became apart of the academy after completing foundations , in which he was presented the oppurtunity to join by a fellow class mate name Olga, which was actually his uber driver at the time. He chose to join after expressing to Olga how he wanted a career change, which he began after completing the foundations program , applying to the academy and getting accepted. Even though everyone join the academy a different way, we all wanted to get the same thing out of it. Which is getting better or learning more skills. This is how our group Good Vibes becames. Enjoy learning about our journey.
 
 import Foundation
 
 func chapterOne() {
-    // Your portion of the story goes here
+    print("""
+In this story you would be learning about how we all became apart of the Apple Developer Academy. Our group Good Vibes including Asia, Tommy, Jarvis, Shanté, and Tamera would be apart of the story. This would include how we all got here and where we would land in the future. Asia became apart of the academy though her school. A mentor came to Renaisance High School and introduced the academy. What she wanted to get out of it is learning new skills in tech. So Asia applied and got in. Shanté became apart of the program after watching the nightly news and seeing a short news piece that introduced her to the Apple Developer's Program for the first time.  She then went to Michigan State's website, applied to the program, and got accepted. Jarvis herad about the program from friends in the previous years program, and joined to learn more about the business of app development. Tamera became part of the program after a colleague of hers sent her the link to apply, knowing how much she enjoyed programming. She applied because she not only wanted to learn more about coding--but about design and business especially. She went through the interview process and was eventually accepted into the academy. Tommy became apart of the academy after completing foundations , in which he was presented the oppurtunity to join by a fellow class mate name Olga, which was actually his uber driver at the time. He chose to join after expressing to Olga how he wanted a career change, which he began after completing the foundations program , applying to the academy and getting accepted. Even though everyone join the academy a different way, we all wanted to get the same thing out of it. Which is getting better or learning more skills. This is how our group Good Vibes becames. Enjoy learning about our journey.
+""")
+    names()
+    }
+func names() {
+   print("Asia, Tommy, Jarvis, Shanté, and Tamera")
 }
+
