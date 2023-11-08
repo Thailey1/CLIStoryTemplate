@@ -4,12 +4,12 @@
 //
 
 
-
+// Function is calling chapter 4 which my chapter which is followed by readstory command at the bottom of my code
 func chapterFour() {
     // Your portion of the story goes here
     func readStory() {
    
-        // Struct to represent a student at the Apple Developer Academy
+        // Struct commands a couple var that call students names,background &experience
         struct Student {
             var name: String
             var experienceLevel: Int
@@ -18,44 +18,49 @@ func chapterFour() {
 
         // Enum to represent different backgrounds and talents
         enum Background {
-            case Renisance
-            case Design
+            case RenaissanceHighSchool
+            case ComputerScience
             case HealthField
+            case Programing
             
         }
 
-        // Create an array of students
+        // Create an array of students with numbers to call a specific student, background & level
         var students: [Student] = [
-            Student(name: "asia", experienceLevel: 2, background: .Design),
-            Student(name: "tamera", experienceLevel: 3),
-            Student(name: "Jarvis", experienceLevel: 1),
-            Student(name: "Tommy", experienceLevel: 2),
-            Student(name: "Shante", experienceLevel: 4)
+            Student(name: "asia", experienceLevel: 2, background: .ComputerScience),
+            Student(name: "tamera", experienceLevel: 4),
+            Student(name: "Jarvis", experienceLevel: 3),
+            Student(name: "Tommy", experienceLevel: 4),
+            Student(name: "Shante", experienceLevel: 1)
         ]
 
         // Constants to describe the academy's environment
         let firstDayExcitement = true
         let challengingJourney = true
 
-        // Variables to track the progress of the group
+        // `goodVibesFormed` is a boolean variable indicating whether good vibes have formed
         var goodVibesFormed = false
+        //mixOfEmotions` is an array to store a string of emotions felt by each student.
         var mixOfEmotions: [String] = []
 
-        // Function to determine a student's background based on their experience level
+        // This is a function that takes an experience level as input and returns a background based on that level. It uses a switch statement to determine the background.
         func determineBackground(_ level: Int) -> Background {
             switch level {
             case 1:
                 return .HealthField
             case 2:
-                return .Renisance
+                return .RenaissanceHighSchool
             case 3:
-                return .Design
-            default:
+                return .ComputerScience
+            case 4:
+                return .Programing
+                
+            default :
                 return .HealthField
             }
         }
 
-        // Loop through the students' experiences and emotions
+        // allow code to Loop through the students' experiences and emotions
         for student in students {
             let background = determineBackground(student.experienceLevel)
             
@@ -75,11 +80,11 @@ func chapterFour() {
         print("Once upon a time at the Apple Developer Academy, a group of aspiring junior iOS developers embarked on a long and challenging journey.")
         print("They came from diverse backgrounds, each with their own unique experiences and talents.")
         print("As they gathered for their first day at the academy, there was a mix of excitement and determanation held back by chill vibes roaming in the air.")
-
+//is an array to store descriptions of emotions felt by each student.
         for emotion in mixOfEmotions {
             print(emotion)
         }
-
+//is a boolean variable or if statment indicating whether good vibes have formed
         if goodVibesFormed {
             print("Despite the challenges they all faced individually , the group managed to over come them an were picked randomly by the academy to form good vibes.")
         } else {
