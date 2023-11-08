@@ -20,5 +20,179 @@
             landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB541AFA-0E8E-4DB8-BE4B-EC11FDA2363D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLIStoryTemplate/Chapter 2/Chapter2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FB541AFA-0E8E-4DB8-BE4B-EC11FDA2363D - 1b579360a11cadca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_telling.chapterTwo() -&gt; ()"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "FB541AFA-0E8E-4DB8-BE4B-EC11FDA2363D - 1b579360a11cada9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_telling.chapterTwo() -&gt; ()"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "FB541AFA-0E8E-4DB8-BE4B-EC11FDA2363D - d5951716a7894dfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for fundamentals"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FB541AFA-0E8E-4DB8-BE4B-EC11FDA2363D - c3b290fc7662d471"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_telling.fundamentals.unsafeMutableAddressor : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1757A527-96F3-4830-85C5-CCFF140D17A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLIStoryTemplate/Chapter 2/Chapter2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1757A527-96F3-4830-85C5-CCFF140D17A1 - d5951716a7894d04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for fundamentals"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1757A527-96F3-4830-85C5-CCFF140D17A1 - c3b290fc7662d48f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_telling.fundamentals.unsafeMutableAddressor : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Story telling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tameramiddlebrooks/CLIStoryTemplate/CLIStoryTemplate/Chapter%202/Chapter2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "709ECC1E-43B7-466A-8123-26FAEC00CF7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLIStoryTemplate/Chapter 2/Chapter2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B3455FD-6953-4972-8B5E-7A55B06338DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLIStoryTemplate/Chapter 2/Chapter2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E119851-092E-4FB3-B106-021F341D2750"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CLIStoryTemplate/Chapter 2/Chapter2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
