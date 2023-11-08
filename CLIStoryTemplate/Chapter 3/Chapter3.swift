@@ -9,7 +9,6 @@ import Foundation
 let title = "Academy Story"
 let chapter = 3
 var challengeNum = 0
-let characters = ["Asia", "Tamera", "Jarvis", "Tommy", "Shanté"]
 struct skills{
     var coding: Int
     var business: Int
