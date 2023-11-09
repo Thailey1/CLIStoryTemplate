@@ -4,7 +4,7 @@
 //
 import Foundation
 
-let team: [String] = ["Tamera", "Tommy", "Jarvis", "Shante", "Asia"]
+let team: [String] = ["Tamera", "Tommy", "Jarvis", "Shant\u{00e9}", "Asia"]
 let fundamentals = ["design", "coding", "business"]
 
 struct Student {
@@ -39,7 +39,7 @@ let tameraM = Student(name: "Tamera", experience: true)
     
 let asiaM = Student(name: "Asia", experience: false)
     
-let shanteP = Student(name: "Shante", experience: false)
+let shanteP = Student(name: "Shant\u{00e9}", experience: false)
     
 let tommyH = Student(name: "Tommy", experience: false)
     

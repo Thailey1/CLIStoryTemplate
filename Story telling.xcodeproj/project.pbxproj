@@ -28,6 +28,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		614F9BBC2AFD77D5005E69A2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		614F9BBD2AFD782C005E69A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		74E289BA2A7C21FC003072EC /* Story telling */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Story telling"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74E289BD2A7C21FC003072EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		74E289C42A7C220C003072EC /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1.swift; sourceTree = "<group>"; };
@@ -51,6 +53,8 @@
 		74E289B12A7C21FC003072EC = {
 			isa = PBXGroup;
 			children = (
+				614F9BBD2AFD782C005E69A2 /* README.md */,
+				614F9BBC2AFD77D5005E69A2 /* .gitignore */,
 				74E289BC2A7C21FC003072EC /* CLIStoryTemplate */,
 				74E289BB2A7C21FC003072EC /* Products */,
 			);

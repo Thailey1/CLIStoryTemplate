@@ -9,7 +9,7 @@ func chapterFive() {
         case Asia
         case Tamera
         case Tommy
-        case Shante
+        case Shanté
     }
     
     //I want to print all stories but dont know how
@@ -52,7 +52,7 @@ func chapterFive() {
             tamerasStory()
         case .Tommy:
             tommyStory()
-        case .Shante:
+        case .Shanté:
             shanteStory()
         }
     }
@@ -77,7 +77,7 @@ func chapterFive() {
     print("Cha-Ching💰")
     
     
-    let endingMembers1 = ["Tommy", "Asia", "Jarvis", "Shante", "Tamera"]
+    let endingMembers1 = ["Tommy", "Asia", "Jarvis", "Shant\u{00e9}", "Tamera"]
     let memberNickNames1 = ["Tommy 12 Apps💻","Design Wizard🧑‍🎨 ", "Fast-Fingers Jarv💨","Innovative App Designer🚀","TAM Tri-Lingual Queen👑"]
     print("But Two years later \(memberNickNames1[0]) wasn't happy. He missed his friends at the academy. So he called Jarvis.")
     
@@ -103,7 +103,7 @@ func chapterFive() {
     }
     //-------------------------Ending conclusion line up
     
-    let endingMembers = ["Tommy", "Asia", "Jarvis", "Shante", "Tamera"]
+    let endingMembers = ["Tommy", "Asia", "Jarvis", "Shant\u{00e9}", "Tamera"]
     let memberNickNames = ["Tommy 12 Apps💻","Design Wizard🧑‍🎨 ", "Fast-Fingers Jarv💨","Innovative App Designer🚀","TAM Tri-Lingual Queen👑"]
     
     print("And just like that Jarvis sends zoom invites to, \(endingMembers[1]) the \(memberNickNames[1])")
@@ -131,7 +131,7 @@ func chapterFive() {
     let jarvis = jobsInNewCompany(namePersonal: "Jarvis", titleJob: "", bigOffice: true, codingLanguage: "C++, HTML, Java, Python, Swift")
     let asia = jobsInNewCompany(namePersonal: "Asia", titleJob: "", bigOffice: false)
     let tamera = jobsInNewCompany(namePersonal: "Tamera", titleJob: "", bigOffice: true, codingLanguage: "C++, HTML, Java, Python")
-    let shante = jobsInNewCompany(namePersonal: "Shante", titleJob: "", bigOffice: false, codingLanguage: "C++,Python, Swift")
+    let shante = jobsInNewCompany(namePersonal: "Shant\u{00e9}", titleJob: "", bigOffice: false, codingLanguage: "C++,Python, Swift")
     let tommy = jobsInNewCompany(namePersonal: "Tommy", titleJob: "", bigOffice: true, codingLanguage:"Swift, Java, Python")
     
 
