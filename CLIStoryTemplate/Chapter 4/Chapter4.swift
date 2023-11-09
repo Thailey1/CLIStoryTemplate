@@ -31,7 +31,7 @@ func chapterFour() {
             Student(name: "tamera", experienceLevel: 4),
             Student(name: "Jarvis", experienceLevel: 3),
             Student(name: "Tommy", experienceLevel: 4),
-            Student(name: "Shante", experienceLevel: 1)
+            Student(name: "Shant\u{00e9}", experienceLevel: 1)
         ]
 
         // Constants to describe the academy's environment
